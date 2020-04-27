@@ -1,8 +1,11 @@
-MAKE | MAKE RE | MAKE FCLEAN
+# My_Runner
 
-MY RUNNER
 USAGE :
-    ./my_runner map -> use custom map
+    
+    ./my_runner <map.txt> -> use custom map
 
 SPACE KEY | UP KEY -> jump
 ESCAPE KEY -> exit jump
+
+# Images
+
